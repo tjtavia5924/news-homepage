@@ -1,0 +1,66 @@
+{
+  "sidebars_contents": [
+    {
+      "id": 1,
+      "title": "Hydrogen VS Electric Cars",
+      "category": "Cars",
+      "image": "/assets/images/image-retro-pcs.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Downsides of AI Artistry",
+      "category": "Art",
+      "image": "/assets/images/image-top-laptops.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Is VC Funding Drying Up?",
+      "category": "Business",
+      "image": "/assets/images/image-gaming-growth.jpg"
+    }
+  ],
+  "bottom_contents": [
+    {
+      "id": 1,
+      "title": "Reviving Retro PCs",
+      "category": "Article",
+      "image": "/assets/images/image-retro-pcs.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Top 10 Laptops of 2022",
+      "category": "Article",
+      "image": "/assets/images/image-top-laptops.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The Growth of Gaming",
+      "category": "Article",
+      "image": "/assets/images/image-gaming-growth.jpg"
+    }
+  ],
+  "tabs": [
+    {
+      "id": 1,
+      "title": "Home"
+    },
+    {
+      "id": 2,
+      "title": "New"
+    },
+    {
+      "id": 3,
+      "title": "Popular"
+    },
+    {
+      "id": 4,
+      "title": "Trending"
+    },
+    {
+      "id": 5,
+      "title": "Categories"
+    }
+  ],
+  "title": "The Bright Future of Web 3.0?",
+  "description": "We dive into the next evolution of the web that claims to put the power of the platforms back into the hands of the people. But is it really fulfilling its promise?"
+}
